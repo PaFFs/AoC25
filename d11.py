@@ -1,4 +1,4 @@
-with open('input10.txt') as file:
+with open('input11.txt') as file:
     lines = file.readlines()
 
 #created the dict up here so the class can access it
